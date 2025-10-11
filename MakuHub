@@ -153,8 +153,7 @@ task.delay(7.5, function()
             msg1:Destroy()
             -- Execute your custom loader first
             -- Then execute the 3in1 script
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuExploit/Yohohoho/refs/heads/main/Heheheha"))()
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/visual2.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuExploit/MakuSabMenu/refs/heads/main/Makuscripts"))()
         end)
     end)
 end)
